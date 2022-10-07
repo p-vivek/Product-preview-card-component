@@ -19,7 +19,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github repo]()
+- Solution URL: [Github repo](https://github.com/p-vivek/Product-preview-card-component)
 - Live Site URL: [Product preview card component](https://p-vivek.github.io/Product-preview-card-component/)
 
 ## My process
