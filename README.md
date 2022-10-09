@@ -32,7 +32,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [My Github homepage]https://www.frontendmentor.io/profile/p-vivek)
+- Website - [My Github homepage](https://www.frontendmentor.io/profile/p-vivek)
 - Frontend Mentor - [@p-vivek](https://www.frontendmentor.io/home)
 
 
