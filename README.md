@@ -33,7 +33,7 @@ Users should be able to:
 ## Author
 
 - Website - [My Github homepage]https://www.frontendmentor.io/profile/p-vivek)
-- Frontend Mentor - [@Hsin-tingCHI](https://www.frontendmentor.io/home)
+- Frontend Mentor - [@p-vivek](https://www.frontendmentor.io/home)
 
 
 ## Acknowledgments
